@@ -24,3 +24,4 @@ Contains instructions on how to push a local project to github.com
 - `git remote add origin URL_TO_REPO`
 - `git remote -v`
 - `git push origin master`
+- `git branch --set-upstream-to=origin/master master`
